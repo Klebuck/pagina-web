@@ -1,0 +1,47 @@
+body {
+	text-align: center;
+}
+
+/*Esto alinea mi pagina al centro*/
+
+.cuadrado-color{
+/*background-color: LightBlue;*/ 
+background-color: #045FB4;
+}
+
+p{
+color: #045FB4;
+}
+
+h1{
+font-family: 'Lobster', cursive;
+color: white;
+}
+h3{
+font-family: 'Lobster', cursive;
+color: white;
+
+}
+/*img{
+height: 200px; largo de imagen
+width: 200px; ancho de imagen
+}*/
+
+.fototodos{
+	height: 300px;
+	width: 800px;
+}
+
+
+/*enlace separador*/
+.Enlaces{
+	border-top: 1px solid black;
+	                /*dashed blue*/
+
+}
+
+.cuadrado-color{
+
+	background-color: #045FB4;
+	padding-bottom: 20px; 
+}
